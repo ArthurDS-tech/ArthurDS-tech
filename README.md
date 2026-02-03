@@ -33,19 +33,3 @@
 ###
 
 <img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ArthurDS-tech/ArthurDS-tech/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Arthurds">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Arthurds&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
