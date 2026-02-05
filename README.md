@@ -38,44 +38,50 @@ Desenvolvedor Full Stack com experiência em **Despachante Marcelino Ltda**, esp
 
 ## 🛠️ Stack Tecnológica
 
-<div align="center">
-  
 ### Frontend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
+</p>
 
 ### Backend & Databases
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" title="C#" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET" title=".NET 8" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" title="C#" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET" title=".NET 8" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" title="SQL Server" />
+</p>
 
 ### DevOps & Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" title="Azure Boards" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
-
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" title="Azure" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" title="VS Code" />
+</p>
 
 ---
 
@@ -84,50 +90,50 @@ Desenvolvedor Full Stack com experiência em **Despachante Marcelino Ltda**, esp
 ### 🎵 [Emotify - Spotify Emotional Analysis](https://github.com/ArthurDS-tech/Emotify-Spotify)
 Sistema que analisa músicas do Spotify para transformar hábitos de escuta em insights emocionais. Identifica padrões sonoros e comportamentais a partir das faixas que você ouve.
 
-**Tech Stack:** JavaScript, Spotify API, Data Analysis
+**Tech Stack:** `JavaScript` `Spotify API` `Data Analysis`
 
 **Destaques:**
-- Análise de grandes volumes de dados musicais
-- Geração de insights emocionais personalizados
-- Interface intuitiva para visualização de dados
+- 📊 Análise de grandes volumes de dados musicais
+- 🎭 Geração de insights emocionais personalizados
+- 🎨 Interface intuitiva para visualização de dados
 
 ---
 
 ### 🌊 [VibeCode - AI Development Terminal](https://github.com/ArthurDS-tech/Vibecoder-Claude)
 Terminal de desenvolvimento potencializado por IA (Claude 3.5 & GPT-4). Digite o que você quer construir em linguagem natural → receba código pronto para produção instantaneamente. Desenvolvimento 10x mais rápido.
 
-**Tech Stack:** TypeScript, Claude.ai API, GPT-4 API
+**Tech Stack:** `TypeScript` `Claude.ai API` `GPT-4 API` `Node.js`
 
 **Destaques:**
-- Integração avançada com APIs de IA
-- Geração de código production-ready
-- Interface de terminal moderna e eficiente
+- 🤖 Integração avançada com APIs de IA
+- ⚡ Geração de código production-ready
+- 💻 Interface de terminal moderna e eficiente
 
 ---
 
 ### 📦 [Order Management System](https://github.com/ArthurDS-tech/Order-Management-API)
 Sistema completo de gerenciamento de pedidos construído com .NET 8. Solução robusta para controle de pedidos, clientes e processos de negócio.
 
-**Tech Stack:** C#, .NET 8, Entity Framework, SQL Server
+**Tech Stack:** `C#` `.NET 8` `Entity Framework` `SQL Server`
 
 **Destaques:**
-- Arquitetura limpa e escalável
-- API RESTful completa
-- Padrões de design modernos
+- 🏗️ Arquitetura limpa e escalável
+- 🔌 API RESTful completa
+- ✨ Padrões de design modernos (SOLID, DDD)
 
 ---
 
 ### 🔗 [Integration Gateway](https://github.com/ArthurDS-tech/Integration-Gateway)
-Gateway de integração para conectar diferentes serviços e APIs, facilitando a comunicação entre sistemas.
+Gateway de integração para conectar diferentes serviços e APIs, facilitando a comunicação entre sistemas distribuídos.
 
-**Tech Stack:** C#, .NET, REST APIs
+**Tech Stack:** `C#` `.NET` `REST APIs` `Microservices`
 
 ---
 
 ### 🔔 [Notification Engine](https://github.com/ArthurDS-tech/Notification-Engine)
-Motor de notificações flexível e escalável para gerenciar comunicações multi-canal.
+Motor de notificações flexível e escalável para gerenciar comunicações multi-canal (email, SMS, push).
 
-**Tech Stack:** C#, .NET
+**Tech Stack:** `C#` `.NET` `Message Queues`
 
 ---
 
@@ -147,10 +153,10 @@ Motor de notificações flexível e escalável para gerenciar comunicações mul
 ## 💼 Experiência Profissional
 
 **Desenvolvedor Full Stack** @ Despachante Marcelino Ltda
-- Desenvolvimento de aplicações web completas (frontend + backend)
-- Implementação de soluções com JavaScript, Python, C#
-- Trabalho com Git e metodologias ágeis
-- Foco em desenvolvimento escalável e manutenível
+- 🚀 Desenvolvimento de aplicações web completas (frontend + backend)
+- 🛠️ Implementação de soluções com JavaScript, Python e C#
+- 📦 Trabalho com Git e metodologias ágeis
+- 📈 Foco em desenvolvimento escalável e manutenível
 
 ---
 
@@ -170,16 +176,29 @@ Motor de notificações flexível e escalável para gerenciar comunicações mul
 ## 🏆 Competências Técnicas
 
 **Languages & Frameworks:**
-`JavaScript` `TypeScript` `Python` `C#` `.NET 8` `React` `Node.js`
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 **Databases:**
-`PostgreSQL` `MongoDB` `MySQL` `SQL Server`
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 **Tools & Platforms:**
-`Git` `GitHub` `Azure Boards` `Docker` `REST APIs` `Spotify API` `Claude.ai API`
 
-**Concepts:**
-`Full Stack Development` `Software Architecture` `Data Analysis` `AI Integration` `Agile Methodologies`
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -189,9 +208,9 @@ Estou sempre aberto a discutir novos projetos, oportunidades de colaboração ou
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-daniel-schuster-4486a1386)
-[![Email](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Projetos-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/ArthurDS-tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-daniel-schuster-4486a1386)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArthurDS-tech)
 
 </div>
 
@@ -200,5 +219,7 @@ Estou sempre aberto a discutir novos projetos, oportunidades de colaboração ou
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ArthurDS-tech&color=blue&style=flat-square&label=Visitantes" alt="Profile views" />
   
-  <p><i>"Transformando código em soluções que fazem a diferença"</i></p>
+  <br><br>
+  
+  <i>"Transformando código em soluções que fazem a diferença"</i>
 </div>
