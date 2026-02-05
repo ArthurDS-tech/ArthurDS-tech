@@ -1,8 +1,4 @@
-<div align="center">
-  <img height="150" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" />
-</div>
-
-<h1 align="center">👋 Olá, eu sou Arthur Daniel Schuster</h1>
+<h1 align="center">Olá, eu sou Arthur Daniel Schuster</h1>
 
 <h3 align="center">Desenvolvedor Full Stack | Engenheiro de Software | Especialista em Soluções Escaláveis</h3>
 
