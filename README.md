@@ -20,7 +20,7 @@ Desenvolvedor Full Stack com experiência em **Despachante Marcelino Ltda**, esp
 💡 **O que eu faço:**
 - Desenvolvimento de aplicações SaaS completas (frontend + backend)
 - Arquitetura de sistemas escaláveis e APIs robustas
-- Integração com serviços externos (Spotify API, Claude.ai API) e automação de processos
+- Integração com serviços externos (API) e automação de processos
 - Engenharia de dados e geração de insights inteligentes
 - Desenvolvimento de ferramentas de IA e análise de dados
 
