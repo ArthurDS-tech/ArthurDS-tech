@@ -34,7 +34,7 @@ Building solutions in **fintech, Web3 payments, and emotional wellness** — thr
 
 ## 🚀 My Main Projects
 
-### 💰 [Solana Payment System - Crypto Payments Made Simple](https://github.com/ArthurDS-tech/Solana-Payment-System)
+### 💰 [Lunoss Pay - Crypto Payments Made Simple](https://github.com/LunossPay)
 
 **🎯 The Problem:**  
 Brazilian startups want to accept cryptocurrency, but integration is complex, expensive, and requires deep blockchain knowledge. There's no simple API with multi-wallet support and automatic payment distribution.
