@@ -209,7 +209,7 @@ Technology is a tool, not the goal. The goal is to create value for real people 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurDS-tech&theme=dracula" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurDS-tech&theme=tokyonight&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" />
 </div>
 
 ---
