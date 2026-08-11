@@ -1,161 +1,90 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/render?type=soft&color=00c853&height=250&section=header&text=Arthur%20Schuster&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20%26%20Product%20Engineer&descAlignY=65&descSize=25" width="100%" />     
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p align="center">
-<a href="https://www.linkedin.com/in/arthur-daniel-schuster-4486a1386/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<!--
+ARTHUR DANIEL SCHUSTER | PRODUCT ENGINEER & FULL STACK DEVELOPER
+  GitHub Profile README - Ultimate Tech/Dev Edition
+--> <div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=0D1117&height=220&section=header&text=ARTHUR%20SCHUSTER&fontSize=70&animation=twinkling&fontAlignY=40&desc=ENGINEERING%20THE%20FUTURE%20OF%20PRODUCT&descAlignY=65&descSize=20&fontColor=00FF41" width="100%" />     
+   <!-- Terminal Style Typing -->   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=500&color=00FF41&center=true&vCenter=true&width=800&lines=%3E_Executing+product_engineer.sh...;%3E_Stack%3A+React%2C+Next.js%2C+Node.js%2C+TypeScript;%3E_Specialization%3A+AI+Integrations+%26+SaaS+Architecture;%3E_Status%3A+Building+high-impact+digital+products" />   <p align="center">
+    <a href="https://www.linkedin.com/in/arthur-daniel-schuster-4486a1386/">
+      <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:arthur.schuster@example.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <a href="https://github.com/arthur-schuster">
+      <img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=github&logoColor=00FF41" />
     </a>
   </p>
 </div>
 
+---
 
+### 🟢 SYSTEM_OVERVIEW
 
+```bash
+$ whoami
+> Arthur Daniel Schuster
+> Role: Product Engineer & Founding Developer
+> Location: Florianópolis, BR
+> Mission: Transforming complex code into market-ready SaaS solutions.
+```
 
-📑 Resumo Executivo
+- ⚡ **Loogi AI:** Technical Lead. Multi-agent AI Ads Automation. **Valuation: R**$$ 2M** | **Funding: R$$** 100k**.
 
-Sou um Engenheiro de Produto & Desenvolvedor Full Stack apaixonado por transformar problemas complexos em soluções digitais rentáveis. Minha abordagem une rigor técnico com uma forte visão de negócios, focada em escalabilidade, performance e experiência do usuário.
+- 🧬 **NeuroPDM:** Architected a robust multi-tenant clinical management SaaS.
 
-•
-🚀 Cofundador da Loogi AI: Liderança técnica de um SaaS de automação de Ads com IA. Projeto avaliado em R2milho~es∗∗evencedordeaportede∗∗R 2 milhões** e vencedor de aporte de **R
-2milho
-~
-es∗∗evencedordeaportede∗∗R
- 100k.
+- 🏃 **Habit:** Social Running Platform for Devs. **#BuildInPublic**
 
-•
-🏥 NeuroPDM / TerapiaABA: Desenvolvimento de arquitetura multi-tenant para gestão clínica de alta complexidade.
+---
 
-•
-🏃 Habit (#BuildInPublic ): Construindo a rede social definitiva para desenvolvedores que correm.
+### 💻 CORE_TECH_STACK
 
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,dotnet,python,postgres,supabase,tailwind,docker,aws,githubactions&perline=6" />
+</div>
 
+---
 
-
-💻 Stack Tecnológica
-
-<table align="center">
-<tr>
-    <td align="center" width="200"><strong>Frontend</strong></td>
-    <td align="center" width="200"><strong>Backend</strong></td>
-    <td align="center" width="200"><strong>Cloud & Data</strong></td>
-    <td align="center" width="200"><strong>AI & Tools</strong></td>
-  </tr>
-  <tr>
-    <td align="top">
-      • React.js / Next.js  
-
-      • TypeScript  
-
-      • Tailwind CSS  
-
-      • TanStack Query
-    </td>
-    <td align="top">
-      • Node.js / Express  
-
-      • C# / .NET Core  
-
-      • Python / FastAPI  
-
-      • Prisma / Drizzle
-    </td>
-    <td align="top">
-      • PostgreSQL  
-
-      • Supabase / Firebase  
-
-      • AWS / Vercel  
-
-      • Docker
-    </td>
-    <td align="top">
-      • Claude API / OpenAI  
-
-      • LangChain  
-
-      • Git / GitHub Actions  
-
-      • Figma
-    </td>
-  </tr>
-</table>
-
-
-
-
-📊 GitHub Stats & Impact
+### 📊 PERFORMANCE_METRICS
 
 <div align="center">
 <table border="0">
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=arthur-schuster&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00C853&icon_color=00C853&text_color=FFFFFF" alt="Arthur's Stats" />
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=arthur-schuster&show_icons=true&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" width="100%" />
       </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-schuster&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00C853&text_color=FFFFFF" alt="Top Languages" />
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-schuster&layout=compact&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" width="100%" />
       </td>
     </tr>
-  </table>
+  </table>     
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthur-schuster&theme=matrix&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="100%" />
 </div>
 
+---
 
-
-
-🐍 Contribution Journey
+### 🐍 CONTRIBUTION_FLOW
 
 <div align="center">
 <picture>
     <source media="(prefers-color-scheme: dark )" srcset="https://raw.githubusercontent.com/arthur-schuster/arthur-schuster/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light )" srcset="https://raw.githubusercontent.com/arthur-schuster/arthur-schuster/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arthur-schuster/arthur-schuster/output/github-contribution-grid-snake.svg">
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/arthur-schuster/arthur-schuster/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
 
+---
 
+### 🚀 ACTIVE_REPOSITORIES
 
+| PROJECT_NAME | TECH_STACK | STATUS |
+| --- | --- | --- |
+| `habit-app` | `Next.js, TS, Supabase` | `DEPLOYING` |
+| `loogi-ai-core` | `Node.js, Claude API` | `PRODUCTION` |
+| `neuro-pdm-saas` | `React, .NET, Postgres` | `STABLE` |
 
-🛠️ Projetos em Destaque
-
-Projeto
-Descrição
-Status
-Habit
-Plataforma social para devs corredores.
-Em Desenvolvimento
-Loogi AI
-Automação de tráfego pago com IA multiagente.
-Production
-NeuroPDM
-Gestão multi-tenant para clínicas de saúde.
-Stable
-
-
-
-
-
-
+---
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arthur-schuster&theme=algolia&hide_border=true&background=0D1117&ring=00C853&fire=00C853&currStreakLabel=00C853" alt="GitHub Streak" />
-</div>   
- <div align="center">
-  <i>"Transformando linhas de código em valor de mercado."</i>  
+<img src="https://capsule-render.vercel.app/render?type=slice&color=00FF41&height=100&section=footer" width="100%" />     
 
-  <sub>© 2026 Arthur Daniel Schuster</sub>
+
+`[ END OF SESSION ]`
+<sub>© 2026 Arthur Daniel Schuster | Engineering with Intent.</sub>
+
 </div>
-
