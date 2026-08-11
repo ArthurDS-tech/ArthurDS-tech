@@ -20,7 +20,7 @@
 ▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
 
 
-```
+
  ╔═══════════════════════════════════════════════════════════════╗
  ║                                                               ║
  ║     👋  ARTHUR SCHUSTER — Full Stack Developer & Founder     ║
@@ -28,7 +28,7 @@
  ║     Building AI-powered products that solve real problems    ║
  ║                                                               ║
  ╚═══════════════════════════════════════════════════════════════╝
-```
+
  
 <div align="center">
 **[🌐 Portfolio](https://arthurporti.vercel.app) • [💼 LinkedIn](https://linkedin.com/in/arthur-danielschuster-4486a1386) • [📧 Email](mailto:arthurds0601@gmail.com) • [📍 Florianópolis, BR]()**
